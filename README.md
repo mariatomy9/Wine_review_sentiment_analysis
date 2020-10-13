@@ -7,4 +7,4 @@ Dataset can be found out from this link : https://drive.google.com/drive/folders
 
 It has been deployed using streamlit and heroku.
 
-Please find the link to the wine review predictor app : https://winereviewpredictor.herokuapp.com/
+Please find the link to the wine review predictor app : https://dashboard.heroku.com/apps/winerev/deploy/github 
